@@ -1,7 +1,7 @@
 # Online Quiz Platform
 
 ## Description
-The Online Quiz Platform is a Python-based application that conducts multiple-choice quizzes, checks answers, and calculates scores in real time. It demonstrates core programming concepts such as conditional logic, data structures, and user input handling.
+The Online Quiz Platform is a Python-based application that conducts multiple-choice quizzes, checks answers, and calculates scores in real time. It demonstrates core programming concepts such as conditional logic, data structures, and user input handling. 
 
 ## Features
 - Multiple-choice quiz system
